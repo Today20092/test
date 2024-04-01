@@ -1,14 +1,17 @@
+icon : &lotus_icon "https://em-content.zobj.net/source/apple/391/lotus_1fab7.png"
+tags: 
+
 message1:
   data: "hello"
   headers:
     title: "hello"
-    icon: ""
+    icon: *lotus_icon
     priority: "5"
     
 message2:
   data: "hello2"
   headers:
     title: "hi"
-    icon: ""
+    icon: *lotus_icon
     priority: "5"
     
