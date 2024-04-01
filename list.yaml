@@ -1,0 +1,6 @@
+message1:
+  data: "hello"
+  headers:
+    title: "hello"
+    icon: "https://em-content.zobj.net/source/apple/391/lotus_1fab7.png"
+    priority: "5"
